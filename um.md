@@ -1,0 +1,5 @@
+# Um Ástráð
+
+Ástráður er kynfræðslufélag læknanema og var stofnað árið 1998. Markmið félagsins er að að fækka kynsjúkdómum, ótímabærum þungunum og meðgöngurofum meðal ungmenna. Þá leggjum við ríkulega áherslu á sjálfsvirðingu, samskipti, samþykki, kynhneigðir og kynheilbrigði. Forvarnarfulltrúar félagsins heimsækja nemendur í framhalds‑ og grunnskólum með kynfræðslu á jafningjagrundvelli. Við erum mjög stolt af því ná til nær allra unglinga á landinu en undanfarin ár höfum við heimsótt alla framhaldsskóla landsins. Þá fer sá hópur grunnskóla, félagsmiðstöðva og annarra stofnanna sem við heimsækjum einnig ört vaxandi ár frá ári.
+
+Félagið byggir eingöngu á velvild og sjálfboðavinnu læknanema. Kennslan er mikilvæg bæði fyrir framhaldsskólanemendur og læknanema. Framhaldsskólanemendur fá hér gríðarlega mikilvæga kynfræðslu sem er í algjöru lágmarki á Íslandi og þá fá læknanemar tækifæri til þess að læra að tala opinskátt um kynlíf, kynfæri, kynhneigðir og fleira. Ljóst er að starfið hefur vaxið og dafnað á síðustu árum og má segja að Ástráður sé kominn til að vera.

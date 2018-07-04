@@ -1,8 +1,8 @@
-Ástráður er félag sem blabalbalb praesent cursus velit convallis, suscipit erat id, mattis felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean hendrerit bibendum lacus, quis fermentum quam pharetra quis. Phasellus accumsan risus sit amet augue lacinia rhoncus.
+Ert þú forvitin/n um samskipti og kynlíf? Heldur þú að þú sért með kynsjúkdóm? Hér finnur þú ýmsan fróðleik um kynheilbrigði og kynlíf og svör við algengum spurningum.
 
-Þú getur [sent okkur spurningu](mailto:leyndo@astradur.is) um hvað sem er.
+Hægt er að senda okkur póst um allt milli himins og jarðar á [leyndo@astradur.is](mailto:leyndo@astradur.is) en þeim póstum svara 4. árs læknanemar og fullum trúnaði er heitið. Við erum líka á Facebook og þar má senda okkur skilaboð.
 
-- [Kynlíf](01_kynlif.md)
+
 - [Samskipti](02_samskipti.md)
 - [Píkan](03_pikan.md)
 - [Typpið](04_typpid.md)
