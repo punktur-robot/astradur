@@ -2,20 +2,23 @@ Ert þú forvitin/n um samskipti og kynlíf? Heldur þú að þú sért með kyn
 
 Hægt er að senda okkur póst um allt milli himins og jarðar á [leyndo@astradur.is](mailto:leyndo@astradur.is) en þeim póstum svara 4. árs læknanemar og fullum trúnaði er heitið. Við erum líka á Facebook og þar má senda okkur skilaboð.
 
+<div id="hlekkir">
 
-- [Samskipti](02_samskipti.md)
-- [Píkan](03_pikan.md)
-- [Typpið](04_typpid.md)
-- [Rassinn](05_rassinn.md)
-- [Kynfærahár](06_kynfaerahar.md)
-- [Sjálfsfróun](07_sjalfsfroun.md)
-- [Kynlíf](08_kynlif.md)
-- [Kynvitund](09_kynvitund.md)
-- [Kynhneigð](10_kynhneigd.md)
-- [Klám](11_klam.md)
-- [Kynsjúkdómar](12_kynsjukdomar.md)
-- [Kynsjúkdómatékkið](13_kynsjukdomatekk.md)
-- [Getnaðarvarnir](14_getnadarvarnir.md)
-- [Getnaður](15_getnadur.md)
-- [Áreitni og ofbeldi](16_areitni.md)
-- [Um Ástráð](um.md)
+  - [Samskipti](02_samskipti.md)
+  - [Píkan](03_pikan.md)
+  - [Typpið](04_typpid.md)
+  - [Rassinn](05_rassinn.md)
+  - [Kynfærahár](06_kynfaerahar.md)
+  - [Sjálfsfróun](07_sjalfsfroun.md)
+  - [Kynlíf](08_kynlif.md)
+  - [Kynvitund](09_kynvitund.md)
+  - [Kynhneigð](10_kynhneigd.md)
+  - [Klám](11_klam.md)
+  - [Kynsjúkdómar](12_kynsjukdomar.md)
+  - [Kynsjúkdómatékkið](13_kynsjukdomatekk.md)
+  - [Getnaðarvarnir](14_getnadarvarnir.md)
+  - [Getnaður](15_getnadur.md)
+  - [Áreitni og ofbeldi](16_areitni.md)
+  - [Um Ástráð](um.md)
+
+</div>
