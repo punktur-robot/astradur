@@ -1,6 +1,6 @@
 Ertu forvitin<span style="color: #bbbbbb;font-weight: 300;">n</span> um samskipti og kynlíf? Heldurðu að þú gætir verið kominn með kynsjúkdóm? Hér finnur þú ýmsan fróðleik um kynheilbrigði og kynlíf og svör við algengum spurningum.
 
-Hægt er að senda okkur póst um allt milli himins og jarðar á [leyndo@astradur.is](mailto:leyndo@astradur.is) en þeim póstum svara fjórða árs læknanemar og fullum trúnaði er heitið. Við erum líka á Facebook og þar má senda okkur skilaboð.
+Hægt er að senda okkur póst um allt milli himins og jarðar á [leyndo@astradur.is](mailto:leyndo@astradur.is) en þeim póstum svara fjórða árs læknanemar og fullum trúnaði er heitið. Við erum líka á [Facebook](https://www.facebook.com/astradurkynfraedslufelag/) og þar má senda okkur skilaboð.
 
 <div id="hlekkir">
 
