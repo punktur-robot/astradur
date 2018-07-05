@@ -56,7 +56,6 @@
 
 * Væntingar til sambanda og kynlífs - sleppa
 
-### Hvernig á maður að byrja að tala við stelpu? - sleppa
 
 ### Hvað á maður að gera ef maður vill hætta með einhverjum en viðkomandi hótar sjálfsvígi eða að meiða sig?
 
@@ -64,7 +63,6 @@
 
 Ef einstaklingur hótar því að framkvæma sjálfsvíg eða að meiða sig í kjölfar sambandsslita þá er það ákveðið form af andlegu ofbeldi. Ef þú ert ákveðinn að hætta með einstaklingnum þá á eitthvað svona ekki að stöðva þig. Ef þú telur einstaklinginn vera alvara með þessar hótanir getur verið gott að reyna að tala hann af því. Einnig getur verið gott að tala við einhvern nákominn þeim aðila og vara þá við ef þið teljið þörf á.
 
-### Hversu lengi má ég bíða? - sleppa
 
 ### Hvernig veit ég að hann vill mig?
 
