@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="175" src="myndir/merki/merki_txtalaust_350.png">
+  <img width="110" src="myndir/merki/merki_textalaust_350.png">
 </p>
 
 Github er vefsvæði þar sem hægt er að vinna saman að skjölum.
